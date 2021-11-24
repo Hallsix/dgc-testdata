@@ -2,8 +2,8 @@
     "JSON": {
         "dob": "1964-08-12",
         "nam": {
-            "fn": "Mustermann",
-            "fnt": "MUSTERMANN",
+            "fn": "Mike",
+            "fnt": "Mike",
             "gn": "Erika",
             "gnt": "ERIKA"
         },
